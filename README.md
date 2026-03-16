@@ -12,6 +12,11 @@ Task 13:
  Example server request:
    http://localhost:5050/fajl.txt
 
+The main difference between the first and second project is synchronous vs. asynchronous execution.
+First project utilises blocking methods. The server thread waits while reading files and sending responses, which can limit scalability.
+Second project uses async/await.
+File reading and response sending are non-blocking, allowing the server to handle multiple requests concurrently and more efficiently.
+
 Faculty: Faculty of Electronics, University of Niš  
 Semester: 6th  
 Course: System Programming  
