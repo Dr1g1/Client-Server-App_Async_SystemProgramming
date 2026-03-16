@@ -8,6 +8,7 @@ Task 13:
  2. Search the root folder and all its subfolders for the requested file.
  3. Count the words in the file according to the criteria above.
  4. If the requested file does not exist, the server should return an error message to the user.
+    
  Example server request:
    http://localhost:5050/fajl.txt
 
