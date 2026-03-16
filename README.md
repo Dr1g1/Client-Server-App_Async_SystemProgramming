@@ -13,9 +13,6 @@ Task 13:
    http://localhost:5050/fajl.txt
 
 Faculty: Faculty of Electronics, University of Niš
-
 Semester: 6th
-
 Course: System Programming
-
 Program: Computer Science and Informatics
